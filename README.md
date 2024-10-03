@@ -82,7 +82,7 @@ $ g++ -o test_app test_app.cpp
 ```
 2. Run application
 ```bash
-$ sudo ./test_app.cpp /dev/HCSR04_Driver0
+$ sudo ./test_app /dev/HCSR04_Driver0
 Trying to read device /dev/HCSR04_Driver0
 distance: 64[mm]
 ```
